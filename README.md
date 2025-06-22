@@ -3,23 +3,25 @@
 Bring foxes into your pet family!
 This data pack lets you tame and control foxes as loyal companions in Minecraft. A feature many players have wished for is finally here.
 
-## Important Information
+## ⚠️ **Important Information** ⚠️
 **⚠️ This is not a native pet system like wolves or cats.
 FoxPet is designed to work well in multiplayer, though occasional issues may occur. I'm actively working to fix any bugs!**
 
-**🔧 A resource pack is required. Please download it manually from the version page.**
+**⚠️ A resource pack is required. Please download it manually from the versions page. (Versions -> _your version_ -> Files -> Resource pack)**
+
+**⚠️ Not seeing your version here? Check out my [GitHub](https://github.com/arrtixx/FoxPet), maybe it's there.**
 
 ## Why as a data pack?
 > Data packs are very easy to install and set up
 
-> They're basically cross-platform (since it doesn't matter if you're running Forge, Fabric, Paper, etc., it will run no matter what)
+> They're basically cross-platform (since it doesn't matter if you're running Forge, Fabric, Paper, etc.; it will run no matter what you're running)
 
 > They're easier to make compared to mods
 
 > They don't have to be updated a lot - data packs for older or newer versions of Minecraft _can_ be compatible with different versions
 
 ## Features
-🦊 Tame a Fox
+### 🦊 Tame a Fox
 To make a fox your pet:
 
 > Craft a Fox Treat
